@@ -1,0 +1,20 @@
+.hero-bg {
+    background-image: url('img/25ss_ecom_sp_speedcat_april_dua-brown_homepage_full-bleed-hero_large-desk_2000x694px.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 50rem;
+}
+
+.card-hover:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+
+.h2{
+    font-size: small;
+}
+.section-bg {
+    background-color: #f9fafb;
+    padding: 5rem 10rem;
+}
